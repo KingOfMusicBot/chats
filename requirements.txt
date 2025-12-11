@@ -1,4 +1,4 @@
-Abg==4.2.0
+Abg==2.3.9
 pyrogram==2.0.106
 pymongo
 motor
